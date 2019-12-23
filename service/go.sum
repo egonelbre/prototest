@@ -1,2 +1,4 @@
-github.com/egonelbre/prototest/common v0.0.0-20191223192134-b8630d3f3818 h1:qQJf+ac9tXLXaJrjRcujXR8Gu7i38gcm5EUSFnxxt6I=
-github.com/egonelbre/prototest/common v0.0.0-20191223192134-b8630d3f3818/go.mod h1:dwRNKaa8FN28a1AdgWGpCasLJ38eA/SbmX7ELwb8m8Y=
+github.com/egonelbre/prototest/common v0.0.0-20191223193046-4f7801bca5ea h1:FWhVWBIGC1Re5k7SuHsiYQlKUbgY/kk3d+RoBgEzjnY=
+github.com/egonelbre/prototest/common v0.0.0-20191223193046-4f7801bca5ea/go.mod h1:fVvoKeJoKiV9/cGDMnqP1VdoV0Kgt+fPJqOv/RD5oic=
+github.com/golang/protobuf v1.3.2 h1:6nsPYzhq5kReh6QImI3k5qWzO4PEbvbIW2cwSfR/6xs=
+github.com/golang/protobuf v1.3.2/go.mod h1:6lQm79b+lXiMfvg/cZm0SGofjICqVBUtrP5yJMmIC1U=
