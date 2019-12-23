@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+package pb;
+option go_package = "proto.test/pbi";
+
+import "pb/node.proto";
+
+service Overlay {
+	rpc Fetch(FetchRequest) returns (FetchResponse);
+}
+
+message FetchRequest {
+	pb.Node node = 1;
+}
+
+message FetchResponse {
+	pb.Node node = 1;
+	Error   error = 2;
+}
+
+message Error {
+	string code = 1;
+	string message = 2;
+}
