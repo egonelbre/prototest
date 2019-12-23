@@ -1,7 +1,7 @@
 syntax = "proto3";
 
 package pb;
-option go_package = "proto.test/pb";
+option go_package = "github.com/egonelbre/prototest/common/pb";
 
 message Node {
 	int64 id = 1;
